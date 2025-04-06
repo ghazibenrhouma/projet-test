@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Cas de test Connexion Cas non passant Mot de passe invalide</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e1102aa0-5895-407d-a6e8-d1bf6416852c</testCaseGuid>
+</TestCaseEntity>
